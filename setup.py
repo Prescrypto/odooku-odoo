@@ -68,7 +68,7 @@ ODOO_REQUIREMENTS = [
     'Pillow==3.4.1',
     'psutil==5.2.2',
     'psycogreen==1.0',
-    'psycopg2==2.6.2',
+    'psycopg2==2.7.5',
     'python-dateutil==2.5.3',
     'pytz==2016.7',
     'PyYAML==3.12',
