@@ -71,7 +71,7 @@ ODOO_REQUIREMENTS = [
     'passlib==1.6.5',
     'Pillow==4.3.0',
     'psutil==5.2.2',
-    'psycopg2==2.7.3.2',
+    'psycopg2==2.7.5',
     'PyPDF2==1.26',
     'python-dateutil==2.5.3',
     'pytz==2016.7',
